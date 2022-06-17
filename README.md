@@ -2,5 +2,5 @@
 
 First test repo
 
-testing PR test test
+testing PR test
 
